@@ -3,6 +3,15 @@
 
 # Challenge 01 | Bantotal
 
+## :bar_chart: Minha Colocação e Solução
+
+<p align="center">
+  <img src="https://github.com/Gttz/maratonadev2021-desafio-1-BANTOTAL/blob/main/images/ranking_maratona.png">
+</p>
+
+- Jupyter Notebook - [bantotal_challenge1.ipynb](https://nbviewer.org/github/Gttz/maratonadev2021-desafio-1-BANTOTAL/blob/main/bantotal_challenge1.ipynb)
+
+---
 Please read the instructions for the challenge by selecting your preferred language below:
 
 - [Español](./doc/instructions/es.md)
